@@ -1,4 +1,4 @@
-# Weather_Dashboard
+# Weather API Dashboard
 🌦️ Weather Analytics Dashboard (Power BI) (Using API) 📌 Overview The Weather Analytics Dashboard is an interactive Power BI project that visualizes real-time weather and air quality data using a public Weather API. This dashboard transforms raw API data into meaningful insights, enabling users to quickly understand weather conditions, temperature trends, and air quality levels.
 
 🎯 Objective The objective of this project is to: Integrate live weather data using an API Convert JSON data into structured datasets Build an interactive and user-friendly Power BI dashboard Provide clear insights into weather and air quality conditions.
