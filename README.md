@@ -15,3 +15,10 @@
 
 📷 Dashboard Preview
 <img width="1310" height="731" alt="WeatherAPIDashboardpic" src="https://github.com/user-attachments/assets/8b7b4d28-2643-4264-b852-c41417288519" />
+
+📷 Video
+
+https://github.com/user-attachments/assets/51b13cc5-6e06-44be-b60a-5115526e3346
+
+
+
