@@ -5,7 +5,7 @@
 
 🛠️ Tech Stack Power BI Desktop – Dashboard development & visualization Power Query – API data extraction and transformation DAX (Data Analysis Expressions) – Measures, KPIs, and conditional logic Weather API – Real-time weather and air quality data File Format – .pbix
 
-🌐 Data Source Source: WeatherAPI Data Includes: Current temperature Humidity Wind speed Weather condition (Sunny, Cloudy, Rainy, etc.) Air Quality Index (AQI) Data Format: JSON (processed using Power Query)
+🌐 Data Source : WeatherAPI Data Includes: Current temperature Humidity Wind speed Weather condition (Sunny, Cloudy, Rainy, etc.) Air Quality Index (AQI) Data Format: JSON (processed using Power Query)
 
 🚀 Key Features 📊 Real-Time Weather KPIs (Temperature, Humidity, Wind Speed) 🌍 City-Based Weather Analysis 🏭 Air Quality Index (AQI) Monitoring with status indicators 🧠 DAX-Driven Conditional Text (e.g., Air is good and healthy) 🔄 Dynamic & Interactive Visuals
 
